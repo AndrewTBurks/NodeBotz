@@ -1,0 +1,24 @@
+{
+  "name": "NodeBotz",
+  "version": "1.0.0",
+  "description": "International NodeBots Day 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewTBurks/NodeBotz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewTBurks/NodeBotz/issues"
+  },
+  "homepage": "https://github.com/AndrewTBurks/NodeBotz#readme",
+  "dependencies": {
+    "johnny-five": "^0.11.3",
+    "particle-io": "^0.14.0"
+  }
+}
